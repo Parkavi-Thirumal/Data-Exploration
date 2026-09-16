@@ -13,9 +13,8 @@ This repository contains the results of a data exploration and analysis exercise
   ### Observations.docx
     A Word document containing:
       Detailed observations from the analysis
-      Identified patterns and anomalies
       Key insights and findings
-      Recommendations and conclusions
+      Formulas and implementation purpose
 ## Purpose
 This repository serves as a centralized reference for exploratory data analysis (EDA) outputs, providing both quantitative summaries and qualitative observations to support data-driven decision-making.
 
