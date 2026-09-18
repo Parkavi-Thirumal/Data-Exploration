@@ -9,7 +9,7 @@ This repository contains the results of a data exploration and analysis exercise
       Dataset summary statistics
       Key metrics and analytical results
       Trends and insights identified during exploration
-  ### Observations.docx
+  ### Data Exploration-Observations.pdf
     A Word document containing:
       Detailed observations from the analysis
       Key insights and findings
