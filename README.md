@@ -8,13 +8,12 @@ This repository contains the results of a data exploration and analysis exercise
     An Excel workbook containing:
       Dataset summary statistics
       Key metrics and analytical results
-      Data quality assessments
       Trends and insights identified during exploration
   ### Observations.docx
     A Word document containing:
       Detailed observations from the analysis
       Key insights and findings
-      Formulas and implementation purpose
+      Formulas and implementation of the formulas
 ## Purpose
 This repository serves as a centralized reference for exploratory data analysis (EDA) outputs, providing both quantitative summaries and qualitative observations to support data-driven decision-making.
 
